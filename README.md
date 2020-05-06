@@ -1,2 +1,2 @@
-# algorithmresultt
+# algorithmresult
 Faux Exchange Algorithm 
